@@ -1,6 +1,6 @@
 # Myntra Clone
 
-Live Project [URL](https://spiffy-pika-0c6aac.netlify.app/shop/men)
+Live Project [URL](https://spiffy-pika-0c6aac.netlify.app/)
 
 
 ## Description
