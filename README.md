@@ -14,17 +14,11 @@ This project is clone of Mynta WebApp.
 - Browse Products based on section
 - Search Products with color, brands.
 - Apply Filters
-- Create, Update, Remove Products from Wishlist
-- Create, Update, Remove Products from Bag
-- Payment Integration With Stripe
 - View Orders
 
 ## Tech Stack
 
 - React
-- Express JS
-- Mongoose
-- MongoDB
 
 ## Available Scripts
 
