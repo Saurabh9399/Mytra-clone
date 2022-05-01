@@ -14,7 +14,7 @@ import ProfileIcon from "@material-ui/icons/PersonOutlineOutlined";
 import FavIcon from "@material-ui/icons/FavoriteBorderOutlined";
 import BagIcon from "@material-ui/icons/LocalMallOutlined";
 import SearchIcon from "@material-ui/icons/Search";
-import logo from "../../images/logo.jpg";
+import logo from "../../images/logo.png";
 
 import { ProfileInfoCard } from "../../components";
 import { useLogin, useProduct } from "../../context";

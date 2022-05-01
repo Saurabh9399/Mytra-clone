@@ -5,7 +5,7 @@ import { Link, useHistory, useLocation } from "react-router-dom";
 import { Grid, makeStyles } from "@material-ui/core";
 import VerifiedUserIcon from "@material-ui/icons/VerifiedUser";
 
-import logo from "../../images/logo.jpg";
+import logo from "../../images/logo.png";
 import { getItemsFromCart } from "../../apis/productService";
 import { useLogin, useProduct } from "../../context";
 import { getAddressList } from "../../apis/userService";
