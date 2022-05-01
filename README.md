@@ -2,9 +2,6 @@
 
 Live Project [URL](https://myntra-ui.vercel.app/)
 
-[Project Source UI](https://github.com/kr017/MyntraUI)
-
-[Project Source Server](https://github.com/kr017/MyntraBackend)
 
 ## Description
 
