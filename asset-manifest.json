@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Myntra-clone/static/css/main.2e7919c8.chunk.css",
+    "main.js": "/Myntra-clone/static/js/main.c30cc9d5.chunk.js",
+    "main.js.map": "/Myntra-clone/static/js/main.c30cc9d5.chunk.js.map",
+    "runtime-main.js": "/Myntra-clone/static/js/runtime-main.22b52711.js",
+    "runtime-main.js.map": "/Myntra-clone/static/js/runtime-main.22b52711.js.map",
+    "static/js/2.792bfe8c.chunk.js": "/Myntra-clone/static/js/2.792bfe8c.chunk.js",
+    "static/js/2.792bfe8c.chunk.js.map": "/Myntra-clone/static/js/2.792bfe8c.chunk.js.map",
+    "index.html": "/Myntra-clone/index.html",
+    "static/css/main.2e7919c8.chunk.css.map": "/Myntra-clone/static/css/main.2e7919c8.chunk.css.map",
+    "static/js/2.792bfe8c.chunk.js.LICENSE.txt": "/Myntra-clone/static/js/2.792bfe8c.chunk.js.LICENSE.txt",
+    "static/media/beauty_banner.72d9f551.jpg": "/Myntra-clone/static/media/beauty_banner.72d9f551.jpg",
+    "static/media/kids_banner.e9610d3d.jpg": "/Myntra-clone/static/media/kids_banner.e9610d3d.jpg",
+    "static/media/login_banner.ea33f304.png": "/Myntra-clone/static/media/login_banner.ea33f304.png",
+    "static/media/logo.84cac2c6.png": "/Myntra-clone/static/media/logo.84cac2c6.png",
+    "static/media/men_banner.c1d3fa73.jpg": "/Myntra-clone/static/media/men_banner.c1d3fa73.jpg",
+    "static/media/women_banner.23aa3f05.jpg": "/Myntra-clone/static/media/women_banner.23aa3f05.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22b52711.js",
+    "static/js/2.792bfe8c.chunk.js",
+    "static/css/main.2e7919c8.chunk.css",
+    "static/js/main.c30cc9d5.chunk.js"
+  ]
+}
